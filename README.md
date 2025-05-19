@@ -4,7 +4,7 @@
 
 
 ```bash
-git clone git@github.com:DwipenduKundu/company-master-data_analysis.git
+git clone git@github.com:DwipenduKundu/Ipl_Project_data_analysis.git
 cd company-master-data_analysis
 ```
 
