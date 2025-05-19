@@ -23,14 +23,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-#### 4. Extract the Data(Required)
-
-
-Go to data_set folder and extract the data.csv.gz file
-
-```bash
-gunzip data.csv.gz
-```
 
 #### 5. Run the script
 
