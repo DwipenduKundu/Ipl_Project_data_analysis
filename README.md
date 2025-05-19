@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 
 
-#### 5. Run the script
+#### 4. Run the script
 
 ##### go through the answers now
 
